@@ -1,0 +1,16 @@
+* {
+  font-family: Arial;
+}
+
+.deals {
+  font-weight: bold;
+  font-size: 26px;
+  margin-bottom: 8px;
+}
+
+.period {
+  color: red;
+  font-style: italic;
+  font-size: 18px;
+  margin-top: 0;
+}
