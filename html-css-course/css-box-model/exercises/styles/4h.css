@@ -1,0 +1,12 @@
+.btn {
+  margin-inline: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.search-result {
+  margin-inline: 4px;
+  font-size: 18px;
+}

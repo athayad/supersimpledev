@@ -1,0 +1,34 @@
+.back {
+  color: rgb(0, 113, 133);
+}
+
+.title {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.price {
+  font-weight: bold;
+  color: rgb(0, 118, 0);
+}
+
+.delivery {
+}
+
+.btn {
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.btn.cart {
+  background-color: rgb(249, 217, 76);
+  width: 110px;
+  margin-right: 8px;
+}
+
+.btn.buy {
+  background-color: rgb(255, 164, 28);
+  width: 110px;
+}

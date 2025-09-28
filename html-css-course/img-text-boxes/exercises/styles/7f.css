@@ -1,0 +1,38 @@
+* {
+  font-family: Arial;
+  margin-block: 0;
+}
+
+p {
+  font-size: 16px;
+  color: rgb(100, 100, 100);
+}
+
+input {
+  width: 400px;
+  padding-block: 7px;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: rgb(100, 100, 100);
+  border-style: solid;
+  margin-bottom: 20px;
+}
+
+.label {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.disclaimer {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  font-size: 20px;
+  width: 400px;
+  padding-block: 16px;
+  border-radius: 30px;
+}

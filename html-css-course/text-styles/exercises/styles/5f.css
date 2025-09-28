@@ -1,0 +1,27 @@
+* {
+  font-family: Arial;
+  margin-block: 0;
+}
+
+.price {
+  margin-top: 20px;
+
+  font-size: 32px;
+  margin-bottom: 5px;
+}
+.currency {
+  color: rgb(100, 100, 100);
+  font-size: 16px;
+}
+
+.change {
+  color: rgb(24, 128, 56);
+  margin-bottom: 8px;
+}
+
+.after {
+  color: rgb(100, 100, 100);
+}
+.after-change {
+  color: rgb(235, 39, 39);
+}

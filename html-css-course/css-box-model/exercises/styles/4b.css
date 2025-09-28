@@ -1,0 +1,15 @@
+.amzn-btn {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.amzn-btn:hover {
+  background-color: rgb(255, 192, 20);
+}

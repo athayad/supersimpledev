@@ -1,0 +1,33 @@
+.btstrp-btn {
+  height: 40px;
+  border-radius: 4px;
+  cursor: pointer;
+  border: none;
+  font-weight: bold;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.btstrp-btn.get {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  width: 110px;
+  margin-right: 6px;
+}
+
+.btstrp-btn.get:hover {
+  background-color: rgb(103, 68, 152);
+}
+
+.btstrp-btn.down {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(108, 117, 125);
+  width: 100px;
+}
+
+.btstrp-btn.down:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+}

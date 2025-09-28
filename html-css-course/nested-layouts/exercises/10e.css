@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  font-family: Arial;
+}
+
+.card {
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  display: inline-block;
+}
+
+.profile {
+  padding: 10px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: top;
+}
+
+.name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.mutual {
+  font-size: 14px;
+  color: rgb(120, 120, 120);
+  margin-bottom: 10px;
+  display: inline-block;
+  vertical-align: center;
+}
+
+button {
+  background-color: rgb(24, 119, 242);
+  color: white;
+  border: none;
+  padding-block: 10px;
+  padding-inline: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.pp {
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  object-position: top;
+  vertical-align: middle;
+  border-radius: 13px;
+  margin-right: 2px;
+}
+
+.mutual-friend {
+  margin-bottom: 5px;
+}

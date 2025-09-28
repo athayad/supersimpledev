@@ -1,0 +1,13 @@
+div {
+  font-family: Arial;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+  border-style: solid;
+  padding: 20px;
+  width: 300px;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 20px;
+}
